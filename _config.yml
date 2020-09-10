@@ -104,5 +104,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:pkq-zc/pkq-zc.github.io.git
+  repo: git@gitee.com:zengchao_workspace/zengchao_workspace.git
   branch: master
